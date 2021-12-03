@@ -8,7 +8,7 @@ More details [here](https://astronomy-imaging-camera.com/product/asi120mm-s)
 - (WIN 10) Download native driver from [here](https://astronomy-imaging-camera.com/software-drivers)
 
 ### Python usage
-- Install the zwoasi wrapper for the c++ sdk (pip install zwoasi)
+- Install the zwoasi wrapper for the c++ sdk `pip install zwoasi`
 
 ### Source for the SDK
 - [Here](https://astronomy-imaging-camera.com/software-drivers) under the 'developers' tab
